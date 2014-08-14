@@ -1,4 +1,4 @@
-<pre>
+<samp>
 Part1 CGI
 
 Write a CGI program to receive an HTTP request described as follows.
@@ -100,4 +100,4 @@ REMOTE_ADDR
 REMOTE_ADDR=“140.113.185.117”
 −
 AUTH_TYPE, REMOTE_USER, REMOTE_IDENT 
-</pre>
+</samp>
